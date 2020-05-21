@@ -1,0 +1,33 @@
+2020-05-16 04:14:24: radiopadre.kernel [0.03s]: initializing radiopadre_kernel
+2020-05-16 04:14:24: radiopadre.kernel [0.03s]: DEBUG: Setting up radiopadre environment, cwd is /idia/projects/vela/test_Hao/1547499081a5/output
+2020-05-16 04:14:24: radiopadre.kernel [0.04s]: DEBUG:   SERVER_BASEDIR preconfigured as /idia/projects/vela/test_Hao/1547499081a5/output, snoop mode is False
+2020-05-16 04:14:24: radiopadre.kernel [0.04s]: DEBUG: Orthodox native, running under /idia/projects/vela/test_Hao/1547499081a5/output
+2020-05-16 04:14:26: radiopadre.kernel [1.35s]: DEBUG:   ports configured as [1024, 1025, 1026, 1027, 1028]
+2020-05-16 04:14:26: radiopadre.kernel [1.35s]: DEBUG:   userside ports configured as [1024, 1025, 1026, 1027, 1028]
+2020-05-16 04:14:26: radiopadre.kernel [1.36s]: Starting /.radiopadre/venv/js9-www/js9Helper.js on port 1025 in /users/haochen/.radiopadre/idia/projects/vela/test_Hao/1547499081a5/output
+2020-05-16 04:14:26: radiopadre.kernel [1.43s]:   started as PID 23636
+2020-05-16 04:14:26: radiopadre.kernel [1.43s]: DEBUG: HTTP server should be running (pid 23577)
+2020-05-16 04:14:26: radiopadre.kernel [1.46s]: Running CARTA backend /.radiopadre/venv/carta/carta (in dir /.radiopadre/venv)
+2020-05-16 04:14:26: radiopadre.kernel [1.50s]:   started as PID 23639
+2020-05-16 04:14:26: radiopadre.kernel [1.51s]: Using JS9 install in /.radiopadre/venv/js9-www
+2020-05-16 04:14:26: radiopadre.kernel [2.28s]: initializing radiopadre JS side
+(node:23636) Warning: N-API is an experimental feature and could change at any time.
+2020-05-16 04:14:29: radiopadre.kernel [5.16s]: DEBUG: starting new ThreadPoolExecutor with 32 workers
+2020-05-16 04:14:30: radiopadre.kernel [5.44s]: running /usr/bin/node /radiopadre/radiopadre/html/puppeteer-html-thumbnail.js file:///idia/projects/vela/test_Hao/1547499081a5/output/diagnostic_plots/gps-1547499081-flag-flagging-summary-plots-0.html /users/haochen/.radiopadre/idia/projects/vela/test_Hao/1547499081a5/output/diagnostic_plots/.radiopadre/html-render/gps-1547499081-flag-flagging-summary-plots-0.width-1920.height-1024.png 1920 1024 200
+2020-05-16 04:14:35: radiopadre.kernel [11.14s]: DEBUG: /usr/bin/node stdout: ; stderr:(node:23706) Warning: N-API is an experimental feature and could change at any time.
+
+2020-05-16 04:14:36: radiopadre.kernel [11.76s]: running /usr/bin/node /radiopadre/radiopadre/html/puppeteer-html-thumbnail.js file:///idia/projects/vela/test_Hao/1547499081a5/output/diagnostic_plots/gps-1547499081-1gc1-crosscal-flagging-summary-plots-0.html /users/haochen/.radiopadre/idia/projects/vela/test_Hao/1547499081a5/output/diagnostic_plots/.radiopadre/html-render/gps-1547499081-1gc1-crosscal-flagging-summary-plots-0.width-1920.height-1024.png 1920 1024 200
+2020-05-16 04:14:38: radiopadre.kernel [13.47s]: DEBUG: /usr/bin/node stdout: ; stderr:(node:23782) Warning: N-API is an experimental feature and could change at any time.
+
+2020-05-16 04:14:38: radiopadre.kernel [13.65s]: running /usr/bin/node /radiopadre/radiopadre/html/puppeteer-html-thumbnail.js file:///idia/projects/vela/test_Hao/1547499081a5/output/diagnostic_plots/gps-1547499081-flag__2-flagging-summary-plots-0.html /users/haochen/.radiopadre/idia/projects/vela/test_Hao/1547499081a5/output/diagnostic_plots/.radiopadre/html-render/gps-1547499081-flag__2-flagging-summary-plots-0.width-1920.height-1024.png 1920 1024 200
+2020-05-16 04:14:39: radiopadre.kernel [15.15s]: DEBUG: /usr/bin/node stdout: ; stderr:(node:23849) Warning: N-API is an experimental feature and could change at any time.
+
+2020-05-16 04:14:39: radiopadre.kernel [15.29s]: running /usr/bin/node /radiopadre/radiopadre/html/puppeteer-html-thumbnail.js file:///idia/projects/vela/test_Hao/1547499081a5/output/diagnostic_plots/gps-1547499081-flag__3-flagging-summary-plots-0.html /users/haochen/.radiopadre/idia/projects/vela/test_Hao/1547499081a5/output/diagnostic_plots/.radiopadre/html-render/gps-1547499081-flag__3-flagging-summary-plots-0.width-1920.height-1024.png 1920 1024 200
+2020-05-16 04:14:41: radiopadre.kernel [16.82s]: DEBUG: /usr/bin/node stdout: ; stderr:(node:23913) Warning: N-API is an experimental feature and could change at any time.
+
+2020-05-16 04:14:41: radiopadre.kernel [16.97s]: running /usr/bin/node /radiopadre/radiopadre/html/puppeteer-html-thumbnail.js file:///idia/projects/vela/test_Hao/1547499081a5/output/diagnostic_plots/gps-1547499081-flag__4-flagging-summary-plots-0.html /users/haochen/.radiopadre/idia/projects/vela/test_Hao/1547499081a5/output/diagnostic_plots/.radiopadre/html-render/gps-1547499081-flag__4-flagging-summary-plots-0.width-1920.height-1024.png 1920 1024 200
+2020-05-16 04:14:43: radiopadre.kernel [18.52s]: DEBUG: /usr/bin/node stdout: ; stderr:(node:23977) Warning: N-API is an experimental feature and could change at any time.
+
+2020-05-16 04:17:22: radiopadre.kernel [177.48s]: Asking CARTA backend (pid 23639) to exit
+2020-05-16 04:17:22: radiopadre.kernel [177.49s]: Terminating remaining child processes (23636 23639)
+2020-05-16 04:17:22: radiopadre.kernel [177.49s]:   child 23639 already exited with code 0

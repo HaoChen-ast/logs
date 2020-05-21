@@ -1,0 +1,14 @@
+2020-05-20 23:07:13: radiopadre.kernel [0.00s]: initializing radiopadre_kernel
+2020-05-20 23:07:13: radiopadre.kernel [0.00s]: DEBUG: Setting up radiopadre environment, cwd is /idia/projects/vela/test_Hao/1547499081a9/output
+2020-05-20 23:07:13: radiopadre.kernel [0.00s]: DEBUG:   SERVER_BASEDIR preconfigured as /idia/projects/vela/test_Hao/1547499081a9/output, snoop mode is False
+2020-05-20 23:07:13: radiopadre.kernel [0.00s]: DEBUG: Orthodox native, running under /idia/projects/vela/test_Hao/1547499081a9/output
+2020-05-20 23:07:15: radiopadre.kernel [2.17s]: DEBUG:   ports configured as [1024, 1025, 1026, 1027, 1028]
+2020-05-20 23:07:15: radiopadre.kernel [2.17s]: DEBUG:   userside ports configured as [1024, 1025, 1026, 1027, 1028]
+2020-05-20 23:07:15: radiopadre.kernel [2.17s]: Starting /.radiopadre/venv/js9-www/js9Helper.js on port 1025 in /users/haochen/.radiopadre/idia/projects/vela/test_Hao/1547499081a9/output
+2020-05-20 23:07:15: radiopadre.kernel [2.23s]:   started as PID 17933
+2020-05-20 23:07:15: radiopadre.kernel [2.24s]: DEBUG: HTTP server should be running (pid 17873)
+2020-05-20 23:07:15: radiopadre.kernel [2.31s]: Running CARTA backend /.radiopadre/venv/carta/carta (in dir /.radiopadre/venv)
+2020-05-20 23:07:15: radiopadre.kernel [2.39s]:   started as PID 17936
+2020-05-20 23:07:15: radiopadre.kernel [2.39s]: Using JS9 install in /.radiopadre/venv/js9-www
+2020-05-20 23:07:16: radiopadre.kernel [3.45s]: initializing radiopadre JS side
+(node:17933) Warning: N-API is an experimental feature and could change at any time.
